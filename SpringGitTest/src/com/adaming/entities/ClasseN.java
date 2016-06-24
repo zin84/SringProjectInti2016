@@ -6,4 +6,8 @@ public class ClasseN {
 		// TODO Auto-generated method stub
 
 	}
+	private void sysout01() {
+		// TODO Auto-generated method stub
+
+	}
 }
